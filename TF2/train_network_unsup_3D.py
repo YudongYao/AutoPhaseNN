@@ -8,6 +8,7 @@ set_seed(123)
 
 ### Choose GPU settings, import libraries
 import os
+
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 import argparse
 import numpy as np
@@ -41,10 +42,9 @@ if __name__ == '__main__':
     # ============================================================
     parser.add_argument('--OutputFolder', type=str, default='./result/')
     # dataset
-    parser.add_argument(
-        '--DataFolder',
-        type=str,
-        default='/lus/theta-fs0/projects/Deep_WF/YYD/CDI_simulation_upsamp/')
+    parser.add_argument('--DataFolder',
+                        type=str,
+                        default='./CDI_simulation_upsamp_noise/')
     parser.add_argument('--num_workers',
                         default=4,
                         type=int,
