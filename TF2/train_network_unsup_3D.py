@@ -6,7 +6,7 @@ from tensorflow.random import set_seed
 
 set_seed(123)
 
-### Choose GPU settings, import libraries
+# Choose GPU settings, import libraries
 import os
 
 os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"

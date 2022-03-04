@@ -7,5 +7,9 @@ Tensorflow 2.x version
 
 --Note: PyTorch version in PyTorch folder is still under development
 
+## Trained model
+The model trained on simulated data can be downloaded with the link: 
+https://anl.box.com/s/qtdy2zl054i5zvoz7mg6hwsf0sqcmdnz
+
 ## License
 Copyright (c) UChicago Argonne, LLC. All rights reserved. See LICENSE file.
