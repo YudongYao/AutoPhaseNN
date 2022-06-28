@@ -5,7 +5,7 @@ https://www.nature.com/articles/s41524-022-00803-w
 ## Requires
 Tensorflow 2.x version
 
---Note: PyTorch version in PyTorch folder is still under development
+
 
 ## Trained model
 The model trained on simulated data can be downloaded with the link: 
