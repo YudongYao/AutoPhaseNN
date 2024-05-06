@@ -8,8 +8,8 @@ Tensorflow 2.x version
 
 
 ## Trained model
-The model trained on simulated data can be downloaded with the link: 
-https://anl.box.com/s/qtdy2zl054i5zvoz7mg6hwsf0sqcmdnz
+The model trained on simulated data can be downloaded with the link: https://g-29c18.fd635.8443.data.globus.org/cherukara/cohere-trained_model.hdf5
+
 The trained model is obtained with TF2.4.1 version. Please make sure using the same TF version to successfully load the model. 
 
 ## License
